@@ -1,0 +1,31 @@
+
+form {
+    background-color: #3792cb;
+    /*position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);*/
+  }
+h1{
+    text-align: center;
+    color: #000066;
+    font-size: 20px;
+    margin-bottom: 30px;
+  }
+  .input {
+    width: 450px;
+    height:30px;
+    padding: 10px;
+  }
+  #submit{
+    width: 225px;
+    background-color: #687bbe;
+    margin-left: 125px;
+  }
+  label{
+    font-size: 20px;
+    padding: 5px;
+  }
+  .formContent{
+    text-align: center;
+  }
